@@ -6,7 +6,7 @@
 - 🎮 Gamer
 - 🚩 CTF lover
 - 🌐 Website: 
-- [<img src="https://github.com/ghostfighter50/ghostfighter50/img/categorielogo-58bc88a79948c.png" height="15em" align="center" alt="Kali Linux Logo" title="Kali Linux Logo"/>](https://www.kali.org/) Kali User 
+- [<img src="https://github.com/ghostfighter50/ghostfighter50/blob/main/img/categorielogo-58bc88a79948c.png" height="15em" align="center" alt="Kali Linux Logo" title="Kali Linux Logo"/>](https://www.kali.org/) Kali User 
 
 ## 📫 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜
 - 🧠 Root-Me : [Here](https://www.root-me.org/ghostfighter50)
