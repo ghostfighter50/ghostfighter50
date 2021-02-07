@@ -1,4 +1,4 @@
-<img align='right' src="https://github.com/loTus04/ghost/blob/main/img/a5b4f526fc905806a9b38b839d49f838.gif" width="230">
+<img align='right' src="https://github.com/ghostfighter50/ghostfighter50/img/a5b4f526fc905806a9b38b839d49f838.gif" width="230">
 
 # :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Nodejs / Typescrip developer
@@ -6,7 +6,7 @@
 - 🎮 Gamer
 - 🚩 CTF lover
 - 🌐 Website: 
-- [<img src="https://github.com/loTus04/ghost/blob/main/img/categorielogo-58bc88a79948c.png" height="15em" align="center" alt="Kali Linux Logo" title="Kali Linux Logo"/>](https://www.kali.org/) Kali User 
+- [<img src="https://github.com/ghostfighter50/ghostfighter50/img/categorielogo-58bc88a79948c.png" height="15em" align="center" alt="Kali Linux Logo" title="Kali Linux Logo"/>](https://www.kali.org/) Kali User 
 
 ## 📫 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜
 - 🧠 Root-Me : [Here](https://www.root-me.org/ghostfighter50)
