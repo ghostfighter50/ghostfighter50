@@ -1,4 +1,4 @@
-<img align='right' src="https://github.com/ghostfighter50/ghostfighter50/img/a5b4f526fc905806a9b38b839d49f838.gif" width="230">
+<img align='right' src="https://github.com/ghostfighter50/ghostfighter50/blob/main/img/a5b4f526fc905806a9b38b839d49f838.gif" width="230">
 
 # :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Nodejs / Typescrip developer
