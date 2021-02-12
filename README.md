@@ -2,7 +2,7 @@
 
 # :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Nodejs / Typescript developer
-- 💼 15 years old student
+- 💼 student
 - 🎮 Gamer
 - 🚩 CTF lover
 - 🌐 Website: 
