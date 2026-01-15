@@ -6,9 +6,14 @@ I work on ML-related research topics alongside system building, with an interest
 
 I like working at the boundary between models and infrastructure, where storage, retrieval, system behavior, and long-term maintainability matter as much as model choice. I also keep an interest in offensive security, particularly in how systems fail, are misused, or are stressed beyond their assumptions.
 
-Currently cofounder and CTO at  
-[![Prosperify](https://img.shields.io/badge/Prosperify.app-0A0A0A?style=flat&logo=none&logoColor=white)](https://prosperify.app)  
+<p>
+Currently cofounder and CTO at 
+<a href="https://www.prosperify.app">
+  <img src="https://www.prosperify.app/favicon.ico" alt="Prosperify" width="14" height="14" style="vertical-align: text-bottom;" />
+  <strong>prosperify.app</strong>
+</a>,
 and a student in alternance.
+</p>
 
 ---
 
